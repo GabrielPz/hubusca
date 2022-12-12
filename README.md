@@ -5,9 +5,10 @@
 
 ## Installation
 
-bash
+```bash
 $ npm install -g expo-cli
 $ npm install
+```
 
 
 ## Technologies
@@ -18,7 +19,7 @@ $ npm install
 
 ## Running the app
 
-bash
+```bash
 $ npm start
-
+```
 
